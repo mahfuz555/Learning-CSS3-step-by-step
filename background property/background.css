@@ -1,0 +1,56 @@
+body{
+    background-color: lightblue;
+    background-image: url("E:/Learning CSS3 Step by Step/img/glass.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-blend-mode: multiply;
+}
+h1{
+    padding: 50px;
+    background-color: red;
+    background-image: none;
+    
+}
+h2{
+    padding: 50px;
+    background-image: linear-gradient(90deg,violet,yellow);
+}
+h3{
+    padding: 60px;
+    background-image: linear-gradient(to top right, blue, orange);
+    opacity: 0.4;
+    
+}
+.para1{
+    padding: 70px;
+    text-align: center;
+    background-image: radial-gradient(green, blue);
+}
+.para2{
+    padding: 200px;
+    background-image: url("E:/Learning CSS3 Step by Step/img/flower.jpg");
+    background-position: top center;
+    background-repeat: repeat-x;
+}
+.para3{
+    padding: 150px;
+    background-image: url("E:/Learning CSS3 Step by Step/img/girl.jpg");
+    background-size: 100% 100%;
+ 
+}
+.para4{
+    padding: 40px;
+    background-image: url("E:/Learning CSS3 Step by Step/img/fishing.jpg");
+    background-origin: content-box;
+    border: 11px dotted black;
+    background-repeat: no-repeat;
+    
+}
+.para5{
+    border: 10px dotted red;
+    padding: 30px;
+    background-color: lightblue;
+    background-clip: padding-box;
+    
+}
