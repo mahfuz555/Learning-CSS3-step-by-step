@@ -1,0 +1,5 @@
+table,th,td{
+    border: 2px solid;
+    width: 50%;
+    text-align: center;caption-side: bottom;
+}
