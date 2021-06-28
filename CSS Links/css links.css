@@ -1,0 +1,25 @@
+body{
+    margin-top: 20px;
+}
+a:link{
+    padding: 12px;
+    margin-top: 15px;
+    border: 2px solid green;
+    color: initial;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+}
+a:visited{
+    color:teal;
+}
+a:hover{
+    background-color: #059862;
+    border: none;
+    color: white;
+}
+a:active{
+    color: tomato;
+    text-decoration: underline;
+}
