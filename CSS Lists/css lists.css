@@ -1,0 +1,35 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ul.a{
+list-style-image: url("E:/Learning CSS3 Step by Step/img/flower.jpg");
+list-style-position: outside;
+}
+ul.b{
+    list-style-type: square;
+    list-style-position: inside;
+}
+ol.c{
+    list-style-type:lower-alpha;
+}
+ol.d{
+    list-style-type: lower-roman;
+}
+ul{
+    background-color:red ;
+    padding: 15px;
+}
+ul li{
+    background-color: khaki;
+    padding: 5px;
+    margin-left: 15px;
+}
+ol{
+    background-color:red ;
+    padding: 15px;
+    
+}
+ol li{
+    background-color: khaki;
+    padding: 5px;margin-left: 18px;
+}
