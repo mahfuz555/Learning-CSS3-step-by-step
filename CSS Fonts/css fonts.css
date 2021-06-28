@@ -1,0 +1,29 @@
+.p1 {
+    font-family: SolaimanLipi, serif;
+    font-style: normal;
+    font-weight: normal;
+  }
+  
+  .p2 {
+    font-family: KumarkhaliOMJ,sans-serif;
+    font-size: 20px;
+    font-style:italic;
+    font-weight: bold;
+    font-variant: normal;
+  }
+  
+  .p3 {
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-style: oblique;
+    font-weight: 900;
+    font-variant: small-caps;
+    font-size: medium;
+  }
+  h1{
+    font-family: "Sofia", sans-serif;
+    font-size: 30px;
+  }
+  h2{
+    font: italic normal 20px Arial,sans-serif;
+    color: red;
+  }
