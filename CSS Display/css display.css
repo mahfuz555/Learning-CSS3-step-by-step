@@ -1,0 +1,12 @@
+ul li{
+    display: inline;
+}
+span{
+    display: block;
+}
+h1{
+    display: none;
+}
+h3{
+    visibility: hidden;
+}
