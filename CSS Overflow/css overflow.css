@@ -1,0 +1,17 @@
+p.visible{
+    overflow: visible;
+}
+p.hidden{
+    overflow: hidden;
+    background-color: lightblue;
+}
+p.scroll{
+    overflow: scroll;
+    width: 50%;
+    height: 150px;
+    background-color: lightgreen;
+    overflow-x:hidden;
+}
+p.auto{
+    overflow: auto;
+}
