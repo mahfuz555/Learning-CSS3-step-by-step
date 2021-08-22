@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+input[type=text], select{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+
+}
+
+input[type=submit]{
+    background-color:#4CAF50;
+    border: none;
+    border-radius: 5px;
+    padding: 12px 20px;
+    width: 100%;
+    color: #fff;
+    margin: 8px 0;
+    cursor: pointer;
+}
+input[type=submit]:hover{
+    background-color: #1d8a1f;
+}
+div{
+    padding: 20px;
+    background-color: #f2f2f2;
+    border-radius: 5px;
+}
+option{
+    padding: 20px;
+}
